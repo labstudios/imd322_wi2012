@@ -1,0 +1,52 @@
+<xml>
+	<company>Bob's Widgets</company>
+	<widget>
+		<name>MyWidget</name>
+		<version value="1.0" />
+		<description><![CDATA[
+		Now we can add <strong>HTML</strong> tags to our description!
+		]]></description>
+	</widget>
+	<widget>
+		<name>MySecondWidget</name>
+		<version value="1.3" />
+		<description><![CDATA[
+		It is <strong>cooler</strong> than the first.
+		]]></description>
+	</widget>
+	<widget>
+		<name>MySecondWidget</name>
+		<version value="1.4" />
+		<description><![CDATA[
+		It is <strong>cooler</strong> than the first.
+		]]></description>
+	</widget>
+	<widget>
+		<name>MySecondWidget</name>
+		<version value="1.5" />
+		<description><![CDATA[
+		It is <strong>cooler</strong> than the first.
+		]]></description>
+	</widget>
+	<widget>
+		<name>MySecondWidget</name>
+		<version value="1.6" />
+		<description><![CDATA[
+		It is <strong>cooler</strong> than the first.
+		]]></description>
+	</widget>
+	<widget>
+		<name>MySecondWidget</name>
+		<version value="1.7" />
+		<description><![CDATA[
+		It is <strong>cooler</strong> than the first.
+		]]></description>
+	</widget>
+	<widget>
+		<name>MySecondWidget</name>
+		<version value="1.8" />
+		<description><![CDATA[
+		It is <strong>cooler</strong> than the first.
+		]]></description>
+	</widget>
+</xml>
